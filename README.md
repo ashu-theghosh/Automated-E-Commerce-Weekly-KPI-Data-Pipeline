@@ -187,6 +187,8 @@ ecommerce-weekly-kpi-data-pipeline/
 │     └── ecommerce_weekly_pipeline.py
 ├── sample_data/
 │     └── sample_sku_week.csv
+
+
 Conclusion
 
 This project demonstrates the design and implementation of a structured, automated, batch-oriented KPI reporting pipeline with clear data layering, historical storage strategy, and orchestration.
