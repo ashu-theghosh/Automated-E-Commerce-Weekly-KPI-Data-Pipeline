@@ -123,7 +123,7 @@ ecommerce-weekly-kpi-data-pipeline/
 ├── README.md
 ├── architecture/
 │     └── pipeline-architecture.png
-├── test_sku.py
+├── test_sku_csv.py
 ├── sample_data/
 │     └── sample_sku_week.csv
 
